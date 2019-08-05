@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## Some of my favorite cities
+* London
+* Houston
+* Amsterdam
+* Bruges
